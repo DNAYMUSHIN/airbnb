@@ -1,0 +1,8 @@
+.cards {
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+    gap: 20px;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+}
